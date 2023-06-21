@@ -25,7 +25,7 @@
   ![Quiche](https://img.shields.io/badge/Quiche-FB4F14?style=for-the-badge)
 
 <a href="https://github.com/Laroche-Nicolas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laroche-Nicolas&theme=dark&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laroche-Nicolas&theme=dark&layout=compact&cache_seconds=86400" />
 </a>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
