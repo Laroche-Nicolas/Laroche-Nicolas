@@ -6,6 +6,8 @@
 
 - 💻 &nbsp;
   ![VueJS](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+  ![Angular](https://img.shields.io/badge/angular-bd002e?style=for-the-badge&logo=angular&logoColor=white)
+
 - 💾 &nbsp;
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -23,7 +25,6 @@
   ![Quiche](https://img.shields.io/badge/Quiche-FB4F14?style=for-the-badge)
 
 <a href="https://github.com/Laroche-Nicolas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laroche-Nicolas&theme=dark&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laroche-Nicolas&theme=dark&layout=compact" />
 </a>
 
